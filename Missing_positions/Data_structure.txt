@@ -1,0 +1,11 @@
+{
+  "size_gap(ví dụ 0.6%)": {
+    "lần chạy (đếm từ 0)": [
+      [
+        các index của giá trị miss trong chuỗi
+      ],
+      len của chuỗi miss này
+    ],
+    "lần chạy tiếp theo"....
+  }
+}
